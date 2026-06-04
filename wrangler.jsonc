@@ -21,6 +21,12 @@
       "id": "3e613e27742c4ccb97817f6e660f2f3a"
     }
   ],
+  "analytics_engine_datasets": [
+    {
+      "binding": "ANALYTICS",
+      "dataset": "see"
+    }
+  ],
   "triggers": {
     "crons": ["0 0 * * *"]
   }
